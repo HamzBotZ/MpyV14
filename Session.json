@@ -1,0 +1,29 @@
+{                                                                                         "creds": {                                                                                "noiseKey": {                                                                             "private": {                                                                              "type": "Buffer",                                                                       "data": "+HUvS01FAsjWIDRyGr4+pz5RQU6tsFd8tixE4LZWr14="                                },                                                                                      "public": {                                                                               "type": "Buffer",                                                                       "data": "ybrImwWFO6dZfn+LyG9EaWkh7fVpdotwK6sTVOaoFDs="                                }                                                                                     },                                                                                      "signedIdentityKey": {                                                                    "private": {                                                                              "type": "Buffer",                                                                       "data": "AOkHS2ksIOvb1uRiC/Xv7u4ornB7QdRUUf6cAFNFHVk="                                },                                                                                      "public": {                                                                               "type": "Buffer",                                                                       "data": "THos2HpuVetbqtsh+aihZuaCv9ZIiWu8K4MZCAYdyVo="                                }                                                                                     },                                                                                      "signedPreKey": {                                                                         "keyPair": {                                                                              "private": {                                                                              "type": "Buffer",                                                                       "data": "UHU7rXLvMsAs1Gmy5/eaBYWx9qgpEC4o4g/R12FdG3A="                                },                                                                                      "public": {                                                                               "type": "Buffer",                                                                       "data": "229NfKml/yPbKn2f0F9ZOoAJhxjKI5XdnlIzBDqwETo="                                }                                                                                     },
+      "signature": {
+        "type": "Buffer",
+        "data": "wzFs9JMWEkLj2c2ZW/fv+UkEyjwkmDagBsXQ2FVkRbaaFe4Dj2vEculHbo+EuBanul3hNp7
+SCN6tI0V4lnkeBg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 210,
+    "advSecretKey": "JxIhTDAP6tbcHh1DabKBQ/frq6BhNTZcuNxIt5pMEcQ=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CIXrz7cBEOqZmpYGGAI=",
+      "accountSignatureKey": "WX+O/BCw5NwvFCkCYpE1v8QhlfLjYVjWgWyad7x/8kU=",
+      "accountSignature": "zeztfP4ZZrBZca39WGtuif7g8N5ed8CqQSjcxn14kKNFpUyyIl75JKU+sCd56
+t8F0t2BlL8fOsTHR/btERS3Ag==",
+      "deviceSignature": "HjZwgxK53Npt3Ikof8l/JLmunVaaOIq5lfvrrDWTGjRsn5rlOmm7rIlZXc44JZ
+pR0REte6cwHzLCpHLuCZCMAA=="
+    },
+    "me": {
+      "id": "62881023363385:26@s.whatsapp.net",
+      "verifiedName": "ZxynnBotz"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "62881023363385:26@s.whatsapp.net",
